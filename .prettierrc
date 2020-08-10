@@ -1,0 +1,9 @@
+{
+  "svelteSortOrder": "styles-scripts-markup",
+  "svelteStrictMode": true,
+  "svelteBracketNewLine": true,
+  "svelteAllowShorthand": false,
+  "trailingComma": "all",
+  "printWidth": 120,
+  "tabWidth": 2
+}
