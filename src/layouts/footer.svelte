@@ -8,6 +8,6 @@
 >
   <div>
     Copyright©2020.
-    <ExternalLink href="https://twitter.com/hpp_ricecake">hppRC</ExternalLink>
+    <ExternalLink href="https://twitter.com/hpp_ricecake" class="">hppRC</ExternalLink>
   </div>
 </footer>
