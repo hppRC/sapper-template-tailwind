@@ -3,7 +3,7 @@
 </script>
 
 <footer
-  class="flex items-center justify-center w-full text-center border-t border-grey p-4 pin-b pointer-events-auto text-sm
+  class="flex items-center justify-center w-full text-center border-t border-grey p-4 pointer-events-auto text-sm
   lg:text-base"
 >
   <div>
