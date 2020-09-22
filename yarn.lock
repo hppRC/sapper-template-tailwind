@@ -960,10 +960,10 @@
     remark "^12.0.0"
     unist-util-find-all-after "^3.0.1"
 
-"@tsconfig/svelte@1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@tsconfig/svelte/-/svelte-1.0.8.tgz#3669305544f8ccbc945dc6906e5be2e0770e7389"
-  integrity sha512-o6vRhB2axVYXuur37VhHeOj7KYrQD5/y51Brsgfy/ymMTP0kGIvnOLcN9IR6NuzkdKJvnNhGYMGJPOh/MHYuZQ==
+"@tsconfig/svelte@1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@tsconfig/svelte/-/svelte-1.0.10.tgz#30ec7feeee0bdf38b12a50f0686f8a2e7b6b9dc0"
+  integrity sha512-EBrpH2iXXfaf/9z81koiDYkp2mlwW2XzFcAqn6qh7VKyP8zBvHHAQzNhY+W9vH5arAjmGAm5g8ElWq6YmXm3ig==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
