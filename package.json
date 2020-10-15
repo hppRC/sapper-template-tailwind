@@ -65,7 +65,7 @@
     "stylelint-declaration-block-no-ignored-properties": "2.3.0",
     "stylelint-no-unsupported-browser-features": "4.0.0",
     "stylelint-order": "4.1.0",
-    "svelte": "3.24.1",
+    "svelte": "3.29.0",
     "svelte-check": "1.0.11",
     "svelte-preprocess": "4.0.10",
     "tailwindcss": "1.6.2",
