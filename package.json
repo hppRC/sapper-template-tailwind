@@ -10,7 +10,7 @@
     "cy:run": "cypress run",
     "dev": "run-p start:dev watch:css",
     "export": "sapper export --legacy",
-    "lint": "eslint . --ext .js,.ts,.svelte",
+    "lint": "eslint . --ext .js,.ts",
     "fix": "eslint . --ext .js,.ts,.svelte --fix",
     "format": "prettier --write --svelte-sort-order scripts-markup-styles ./**/*.svelte",
     "start": "node __sapper__/build",
